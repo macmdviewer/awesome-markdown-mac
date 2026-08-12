@@ -50,6 +50,7 @@ Apps for **writing** Markdown, with preview.
 | [MacDown](https://macdown.uranusjr.com) | Free | Open source. **Last release 0.7.3 in January 2020; last commit July 2023.** Still works, no longer developed. |
 | [Nota](https://nota.md) | — | Markdown writing app with terminal integration. |
 | [Obsidian](https://obsidian.md) | Free for personal use | Knowledge base with bidirectional linking. Commercial use requires a paid licence. |
+| [Persona](https://github.com/jayamitkatariya/personacli) | Free | Open source, local-first Markdown workspace with notes, tasks and AI chat. Data stays as plain `.md` files. |
 | [Typora](https://typora.io) | $14.99 | WYSIWYG Markdown editor with seamless live preview. |
 | [Ulysses](https://ulysses.app) | Free download, subscription | Full writing environment with publishing. |
 | [Zettlr](https://www.zettlr.com) | Free | Open source, academic writing with Zettelkasten support. |
