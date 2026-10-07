@@ -31,6 +31,7 @@ Apps focused on **reading and rendering** Markdown rather than writing it.
 | App | Price | Last updated | Notes |
 |-----|-------|--------------|-------|
 | [Kite](https://www.kitemarkdown.com) | $14.99 | — | Quick Look previews for `.md` plus an editor. Direct download, not on the App Store. |
+| [Macaroni](https://macaroni.noodledragon.studio) | $14.99 | 2026-10-07 | Read-only AppKit viewer. Watches a folder, lists files changed since you last read them, and diffs each against the version you last read. Live reload, Mermaid, KaTeX, Quick Look extension. |
 | [MacMD Viewer](https://macmdviewer.com) | $19.99 | 2026-08-01 | Native SwiftUI viewer. Live reload, Mermaid diagrams, Quick Look extension, 12 document themes. |
 | [Marked 2](https://marked2app.com) | $13.99 | 2025-03-11 | Mature previewer with custom styles and export options. Pairs with an external editor. |
 | [OpenMark](https://openmarkapp.com) | $9.99 | 2026-04-23 | Markdown viewer aimed at AI-generated documents. |
