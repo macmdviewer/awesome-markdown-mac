@@ -30,6 +30,7 @@ Apps focused on **reading and rendering** Markdown rather than writing it.
 
 | App | Price | Last updated | Notes |
 |-----|-------|--------------|-------|
+| [Glim](https://github.com/NeoPanic/Glim) | Free, MIT open source | 2026-10-16 | Rust/GPUI Kit file viewer with rendered Markdown, Mermaid diagrams, LaTeX formulas and basic source editing. Direct macOS download for Apple Silicon and Intel. |
 | [Kite](https://www.kitemarkdown.com) | $14.99 | — | Quick Look previews for `.md` plus an editor. Direct download, not on the App Store. |
 | [MacMD Viewer](https://macmdviewer.com) | $19.99 | 2026-08-01 | Native SwiftUI viewer. Live reload, Mermaid diagrams, Quick Look extension, 12 document themes. |
 | [Marked 2](https://marked2app.com) | $13.99 | 2025-03-11 | Mature previewer with custom styles and export options. Pairs with an external editor. |
